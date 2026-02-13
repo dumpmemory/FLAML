@@ -53,8 +53,8 @@ exceptiongroup==1.3.1
 executing==2.2.1
 fastapi==0.129.0
 fastjsonschema==2.21.2
-filelock==3.20.3
--e git+https://github.com/dumpmemory/FLAML@7eb4600ebf11375315b27ed06729fc48e24d7bff#egg=FLAML
+filelock==3.21.2
+-e git+https://github.com/dumpmemory/FLAML@8c3d80dc37ff5acc738afd7621210132ffecbd53#egg=FLAML
 fonttools==4.61.1
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -158,7 +158,7 @@ parso==0.8.6
 patsy==1.0.2
 pexpect==4.9.0
 pillow==12.1.1
-platformdirs==4.6.0
+platformdirs==4.7.0
 plotly==6.5.2
 pluggy==1.6.0
 pre_commit==4.5.1
