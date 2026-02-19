@@ -1,4 +1,4 @@
-catboost==1.2.8
+catboost==1.2.10
 coverage==7.13.4
 dataclasses==0.6
 datasets==4.5.0
@@ -39,4 +39,4 @@ torchvision==0.25.0
 transformers==5.2.0
 xgboost==3.2.0
 xgboost==3.2.0
-Current commit hash: 9acfde51db226c39b693f9b0638e5391ce4cc61b
+Current commit hash: e006fb95d57e9e76ce1547b03f7577d3ab921271
