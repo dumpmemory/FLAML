@@ -47,7 +47,7 @@ executing==2.2.1
 fastapi==0.135.1
 fastjsonschema==2.21.2
 filelock==3.25.0
--e git+https://github.com/dumpmemory/FLAML@f64500b3c822443a044b243f5dd148a73a0d2555#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@ae65088ee2be85408a64ebbf0c815fb34f2b5f9f#egg=FLAML
 fonttools==4.61.1
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -206,7 +206,7 @@ seqeval==1.2.2
 setuptools==81.0.0
 shellingham==1.5.4
 six==1.17.0
-smmap==5.0.2
+smmap==5.0.3
 soupsieve==2.8.3
 SQLAlchemy==2.0.48
 sqlparse==0.5.5
