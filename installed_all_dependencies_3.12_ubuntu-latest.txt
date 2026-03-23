@@ -47,7 +47,7 @@ executing==2.2.1
 fastapi==0.135.1
 fastjsonschema==2.21.2
 filelock==3.25.2
--e git+https://github.com/dumpmemory/FLAML@59049786efe4c1b7aa945d400e64ccc38fda43e6#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@deccbea09dbaf6944f4b7c52c3292dd9e766397a#egg=FLAML
 fonttools==4.62.1
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -211,7 +211,7 @@ SQLAlchemy==2.0.48
 sqlparse==0.5.5
 stack-data==0.6.3
 stanio==0.5.1
-starlette==0.52.1
+starlette==1.0.0
 statsmodels==0.14.6
 sympy==1.14.0
 tensorboardX==2.6.4
