@@ -14,7 +14,7 @@ mlflow-skinny==2.22.1
 nbconvert==7.17.0
 nbformat==5.10.4
 nltk==3.9.4
-numpy==2.4.3
+numpy==2.4.4
 openml==0.15.1
 optuna==3.6.1
 packaging==24.2
@@ -24,7 +24,7 @@ pytest-rerunfailures==16.1
 pytest==9.0.2
 pytorch-forecasting==1.6.1
 pytorch-lightning==2.6.1
-requests==2.33.0
+requests==2.33.1
 rgf-python==3.12.0
 rouge_score==0.1.2
 scikit-learn==1.8.0
@@ -38,4 +38,4 @@ torchvision==0.26.0
 transformers==5.4.0
 xgboost==3.2.0
 xgboost==3.2.0
-Current commit hash: c221f7533115d7cc5c9d042975a53cfa89075504
+Current commit hash: cf604675688d2662f876903390604cdc9253b97a
