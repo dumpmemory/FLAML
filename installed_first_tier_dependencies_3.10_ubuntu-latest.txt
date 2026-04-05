@@ -32,11 +32,11 @@ scikit-learn==1.7.2
 scipy==1.15.3
 seqeval==1.2.2
 statsmodels==0.14.6
-tensorboardX==2.6.4
+tensorboardX==2.6.5
 thop==0.1.1-2209072238
 torch==2.11.0
 torchvision==0.26.0
 transformers==5.5.0
 xgboost==1.7.6
 xgboost==1.7.6
-Current commit hash: 21200ec8926452faa24767cf34bb3aaf66680935
+Current commit hash: 0b6007ee0e3ba621718c9f71b055131af491790c
