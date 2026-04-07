@@ -23,7 +23,7 @@ prophet==1.3.0
 psutil==7.2.2
 pytest-rerunfailures==16.1
 pytest==9.0.2
-pytorch-forecasting==1.6.1
+pytorch-forecasting==1.7.0
 pytorch-lightning==2.6.1
 requests==2.33.1
 rgf-python==3.12.0
@@ -39,4 +39,4 @@ torchvision==0.26.0
 transformers==5.5.0
 xgboost==1.7.6
 xgboost==1.7.6
-Current commit hash: 0b6007ee0e3ba621718c9f71b055131af491790c
+Current commit hash: 0bb5ab2e36f3839d8a0c90d7c66205a43bcf6548
