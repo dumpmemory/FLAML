@@ -30,10 +30,10 @@ colorlog==6.10.1
 comm==0.2.3
 contourpy==1.3.3
 convertdate==2.4.1
-coverage==7.14.0
+coverage==7.14.1
 cryptography==48.0.0
 cycler==0.12.1
-databricks-sdk==0.110.0
+databricks-sdk==0.111.0
 datasets==4.8.5
 debugpy==1.8.20
 decorator==5.3.1
@@ -42,10 +42,10 @@ dill==0.4.1
 distlib==0.4.0
 evaluate==0.4.6
 executing==2.2.1
-fastapi==0.136.1
+fastapi==0.136.3
 fastjsonschema==2.21.2
 filelock==3.29.0
--e git+https://github.com/dumpmemory/FLAML@2964056c055be302ab5d4cffae785aed26b28457#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@59f777f49bc182f2665fae1a8ffb4fc6c7149ef6#egg=FLAML
 fonttools==4.63.0
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -60,7 +60,7 @@ hcrystalball==0.1.12
 hf-xet==1.5.0
 httpcore==1.0.9
 httpx==0.28.1
-huggingface_hub==1.16.1
+huggingface_hub==1.16.4
 identify==2.6.19
 idna==3.16
 importlib_metadata==8.9.0
@@ -183,11 +183,11 @@ setuptools==81.0.0
 shellingham==1.5.4
 six==1.17.0
 smmap==5.0.3
-soupsieve==2.8.3
-SQLAlchemy==2.0.49
+soupsieve==2.8.4
+SQLAlchemy==2.0.50
 sqlparse==0.5.5
 stack-data==0.6.3
-starlette==1.0.1
+starlette==1.1.0
 statsmodels==0.14.6
 sympy==1.14.0
 tensorboardX==2.6.5
@@ -210,7 +210,7 @@ tzdata==2026.2
 uri-template==1.3.0
 urllib3==2.7.0
 userpath==1.9.2
-uvicorn==0.47.0
+uvicorn==0.48.0
 virtualenv==21.3.3
 wcwidth==0.7.0
 webcolors==25.10.0
