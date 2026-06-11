@@ -3,7 +3,7 @@ coverage==7.14.1
 datasets==5.0.0
 dill==0.4.1
 evaluate==0.4.6
-hcrystalball==0.1.2
+hcrystalball==0.1.12
 ipykernel==7.3.0
 joblib==1.3.2
 joblibspark==0.6.0
@@ -37,4 +37,4 @@ torchvision==0.27.0
 transformers==5.11.0
 xgboost==3.2.0
 xgboost==3.2.0
-Current commit hash: 11ceca2804ffd8e5394b8098aabc4dcb84f4f115
+Current commit hash: 5186030c7e45893a84ccb0827ec29c0c41e041b6
