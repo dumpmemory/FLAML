@@ -31,7 +31,7 @@ comm==0.2.3
 contourpy==1.3.2
 convertdate==2.4.1
 coverage==7.14.1
-cryptography==48.0.1
+cryptography==49.0.0
 cycler==0.12.1
 databricks-sdk==0.117.0
 datasets==5.0.0
@@ -46,14 +46,14 @@ executing==2.2.1
 fastapi==0.136.3
 fastjsonschema==2.21.2
 filelock==3.29.3
--e git+https://github.com/dumpmemory/FLAML@53f2ceaa0e2b1e11faf46eb0dec970ecb51fa7b6#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@1a1efe0be3c65a4feb4dbb6a913852356cd5bfe7#egg=FLAML
 fonttools==4.63.0
 fqdn==1.5.1
 frozenlist==1.8.0
 fsspec==2026.4.0
 gitdb==4.0.12
 GitPython==3.1.50
-google-auth==2.53.0
+google-auth==2.54.0
 graphviz==0.21
 greenlet==3.5.1
 h11==0.16.0
