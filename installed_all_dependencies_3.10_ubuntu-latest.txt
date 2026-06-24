@@ -49,7 +49,7 @@ executing==2.2.1
 fastapi==0.138.0
 fastjsonschema==2.21.2
 filelock==3.29.4
--e git+https://github.com/dumpmemory/FLAML@626b174266a2016b37a62e9df61675e0f12b5149#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@6422f987f30e06ec21df58568536b343eb317d9a#egg=FLAML
 fonttools==4.63.0
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -142,9 +142,9 @@ nvidia-nvjitlink==13.0.88
 nvidia-nvshmem-cu13==3.4.5
 nvidia-nvtx==13.0.85
 openml==0.15.1
-opentelemetry-api==1.42.1
-opentelemetry-sdk==1.42.1
-opentelemetry-semantic-conventions==0.63b1
+opentelemetry-api==1.43.0
+opentelemetry-sdk==1.43.0
+opentelemetry-semantic-conventions==0.64b0
 optuna==3.6.1
 overrides==7.7.0
 packaging==24.2
@@ -245,6 +245,6 @@ widgetsnbextension==4.0.15
 workalendar==17.0.0
 xgboost==1.7.6
 xmltodict==1.0.4
-xxhash==3.7.0
+xxhash==3.7.1
 yarl==1.24.2
 zipp==4.1.0
