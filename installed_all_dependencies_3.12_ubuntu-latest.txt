@@ -47,7 +47,7 @@ executing==2.2.1
 fastapi==0.138.0
 fastjsonschema==2.21.2
 filelock==3.29.4
--e git+https://github.com/dumpmemory/FLAML@00609e6dd11f54347c937f7846f996eb39f0d780#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@1c80807be71098ee9b8ba74946c0c3eaa99bad16#egg=FLAML
 fonttools==4.63.0
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -247,6 +247,6 @@ widgetsnbextension==4.0.15
 workalendar==17.0.0
 xgboost==3.3.0
 xmltodict==1.0.4
-xxhash==3.7.0
+xxhash==3.7.1
 yarl==1.24.2
 zipp==4.1.0
