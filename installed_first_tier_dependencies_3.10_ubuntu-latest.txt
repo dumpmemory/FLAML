@@ -1,5 +1,5 @@
 catboost==1.2.10
-coverage==7.15.3
+coverage==7.15.4
 datasets==5.0.1
 dill==0.4.1
 evaluate==0.4.6
@@ -11,8 +11,8 @@ jupyter==1.1.1
 lightgbm==4.7.0
 mlflow-skinny==2.22.1
 nbconvert==7.17.1
-nbformat==5.10.4
-nltk==3.10.1
+nbformat==5.11.0
+nltk==3.10.2
 numpy==1.26.4
 openml==0.15.1
 optuna==3.6.1
@@ -38,4 +38,4 @@ torchvision==0.28.0
 transformers==5.14.1
 xgboost==1.7.6
 xgboost==1.7.6
-Current commit hash: 8f358e5fc7b72b8f2aaed5d540f24380f59071e3
+Current commit hash: 542c91cc297bcca5384af8b3fbc6fadb45cd5bc3
