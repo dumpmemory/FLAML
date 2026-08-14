@@ -7,7 +7,7 @@ alembic==1.19.1
 annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.14.2
-argcomplete==3.7.0
+argcomplete==3.7.2
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
 arrow==1.4.0
@@ -44,7 +44,7 @@ executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.1
 filelock==3.32.2
--e git+https://github.com/dumpmemory/FLAML@c4f6290aeb628b5e664661f2c43c13e72a34292c#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@7be2a448b6e65c1058549b38e1a73949a873ab76#egg=FLAML
 fonttools==4.63.0
 fqdn==1.5.1
 frozenlist==1.8.0
@@ -131,8 +131,8 @@ pandocfilters==1.5.1
 parso==0.8.7
 patsy==1.0.2
 pillow==12.3.0
-pipx==1.16.5
-platformdirs==4.11.0
+pipx==1.16.6
+platformdirs==4.11.2
 plotly==6.9.0
 pluggy==1.6.0
 pre_commit==4.6.2
