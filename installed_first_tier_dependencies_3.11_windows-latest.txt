@@ -29,12 +29,12 @@ rouge_score==0.1.2
 scikit-learn==1.8.0
 scipy==1.17.1
 seqeval==1.2.2
-statsmodels==0.14.6
+statsmodels==0.15.0
 tensorboardX==2.6.5
 thop==0.1.1-2209072238
 torch==2.13.0
 torchvision==0.28.0
-transformers==5.15.1
+transformers==5.16.1
 xgboost==3.2.0
 xgboost==3.2.0
-Current commit hash: 03a54aa736c52f5c7aaf275a08afc9fa64732ef1
+Current commit hash: 1afbf5d13534d4f7224bd9e3933777f01d860be3
