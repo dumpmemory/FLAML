@@ -43,7 +43,7 @@ executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
 filelock==3.32.5
--e git+https://github.com/dumpmemory/FLAML@754aaf6758ac53adf8a4230b599a7a6997ad91e1#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@66fb1ca831165435e21d9f7edfe1c1a3c93e885a#egg=FLAML
 fonttools==4.64.0
 formulaic==1.2.2
 fqdn==1.5.1
