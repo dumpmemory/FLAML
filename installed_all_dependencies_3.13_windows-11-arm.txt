@@ -37,7 +37,7 @@ executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
 filelock==3.32.4
--e git+https://github.com/dumpmemory/FLAML@982d04da58da5792ba426fb85955fc3efc95eaeb#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@1d1fd2e1b3ba36c5c2b9694048b0bc5460c4414d#egg=FLAML
 fonttools==4.64.0
 formulaic==1.2.2
 fqdn==1.5.1
@@ -93,7 +93,7 @@ matplotlib-inline==0.2.2
 mdurl==0.1.2
 mistune==3.3.4
 mlflow-skinny==2.22.1
-narwhals==2.25.0
+narwhals==2.26.0
 nbclient==0.11.0
 nbconvert==7.17.1
 nbformat==5.11.1
