@@ -35,7 +35,7 @@ cuda-bindings==13.3.1
 cuda-pathfinder==1.8.1
 cuda-toolkit==13.0.3.0
 cycler==0.12.1
-databricks-sdk==0.136.0
+databricks-sdk==0.137.0
 datasets==5.0.1
 debugpy==1.8.21
 defusedxml==0.7.1
@@ -45,8 +45,8 @@ evaluate==0.4.6
 executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
-filelock==3.32.5
--e git+https://github.com/dumpmemory/FLAML@02ebac62f4e7965207c07fa99d7e2e98701517c6#egg=FLAML
+filelock==3.32.6
+-e git+https://github.com/dumpmemory/FLAML@b2013c60e2bd9e80d71a24023a9fa94930dedc13#egg=FLAML
 fonttools==4.64.0
 formulaic==1.2.2
 fqdn==1.5.1
@@ -154,7 +154,7 @@ parso==0.8.7
 patsy==1.0.3
 pexpect==4.9.0
 pillow==12.3.0
-platformdirs==4.11.7
+platformdirs==4.11.8
 plotly==7.0.0
 pluggy==1.6.0
 pre_commit==4.6.2
@@ -237,7 +237,7 @@ tzdata==2026.3
 uri-template==1.3.0
 urllib3==2.7.0
 uvicorn==0.52.4
-virtualenv==21.7.8
+virtualenv==21.7.9
 wcwidth==0.8.3
 webcolors==25.10.0
 webencodings==0.6.1
