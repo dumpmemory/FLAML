@@ -37,7 +37,7 @@ executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
 filelock==3.32.5
--e git+https://github.com/dumpmemory/FLAML@865bfbf844b0adcad9359cfc7354c1f7b7be7d00#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@469d547c9e73ffb55aa0e35d631dc149e5946413#egg=FLAML
 fonttools==4.65.0
 formulaic==1.2.2
 fqdn==1.5.1
@@ -133,7 +133,7 @@ PyMeeus==0.5.12
 pyparsing==3.3.2
 pytest==9.1.1
 pytest-asyncio==1.4.0
-pytest-rerunfailures==16.6.1
+pytest-rerunfailures==16.7
 python-dateutil==2.9.0.post0
 python-discovery==1.6.0
 python-json-logger==4.2.0
