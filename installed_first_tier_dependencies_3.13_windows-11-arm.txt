@@ -13,7 +13,7 @@ nltk==3.10.3
 numpy==2.5.3
 optuna==3.6.1
 packaging==24.2
-pandas==3.0.5
+pandas==3.0.6
 psutil==7.2.2
 pytest-rerunfailures==16.7
 pytest==9.1.1
@@ -26,4 +26,4 @@ statsmodels==0.15.0
 tensorboardX==2.6.5
 transformers==5.17.0
 xgboost==3.4.1
-Current commit hash: c9cd69b2d7c0abb6f7d5103193558cdbbe6db3f2
+Current commit hash: 79b3c6ff8d84a7cf219816159ae0e4e862fcef68
