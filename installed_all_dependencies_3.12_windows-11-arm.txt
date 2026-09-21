@@ -36,7 +36,7 @@ executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
 filelock==3.32.7
--e git+https://github.com/dumpmemory/FLAML@6a4334a902d547935f682d590c88b191d6472887#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@b54d553ed07c7c68c74076bc8b8306594d94b49b#egg=FLAML
 fonttools==4.65.0
 formulaic==1.2.2
 fqdn==1.5.1
@@ -128,7 +128,7 @@ pydantic_core==2.46.5
 Pygments==2.21.0
 pyluach==2.3.0
 PyMeeus==0.5.12
-pyparsing==3.3.2
+pyparsing==3.3.3
 pytest==9.1.1
 pytest-asyncio==1.4.0
 pytest-rerunfailures==16.7
@@ -179,7 +179,7 @@ tzdata==2026.4
 uri-template==1.3.0
 urllib3==2.8.0
 uvicorn==0.53.0
-virtualenv==21.7.16
+virtualenv==21.9.0
 wcwidth==0.8.4
 webcolors==25.10.0
 webencodings==0.6.1

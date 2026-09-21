@@ -26,4 +26,4 @@ statsmodels==0.15.0
 tensorboardX==2.6.5
 transformers==5.17.0
 xgboost==3.4.1
-Current commit hash: 6a4334a902d547935f682d590c88b191d6472887
+Current commit hash: b54d553ed07c7c68c74076bc8b8306594d94b49b
