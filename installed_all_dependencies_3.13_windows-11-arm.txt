@@ -36,8 +36,8 @@ distlib==0.4.3
 executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
-filelock==4.0.1
--e git+https://github.com/dumpmemory/FLAML@95e9df670c4de0949871fe6b9c4667527760c1aa#egg=FLAML
+filelock==3.32.6
+-e git+https://github.com/dumpmemory/FLAML@5623ce8a34ce2293700deb96624d3d8d7f4b94cb#egg=FLAML
 fonttools==4.65.0
 formulaic==1.2.2
 fqdn==1.5.1
@@ -113,8 +113,8 @@ pandocfilters==1.5.1
 parso==0.8.7
 patsy==1.0.3
 pillow==12.3.0
-pipx==1.17.5
-platformdirs==4.11.11
+pipx==1.17.2
+platformdirs==4.11.8
 pluggy==1.6.0
 pre_commit==4.6.2
 prometheus_client==0.26.0
@@ -163,7 +163,7 @@ soupsieve==2.9.2
 SQLAlchemy==2.0.54
 sqlparse==0.6.0
 stack-data==0.6.3
-starlette==1.6.0
+starlette==1.7.0
 statsmodels==0.15.0
 tensorboardX==2.6.5
 terminado==0.18.1
