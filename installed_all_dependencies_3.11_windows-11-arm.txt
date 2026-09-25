@@ -27,7 +27,7 @@ convertdate==2.5.1
 coverage==7.16.1
 cryptography==46.0.3
 cycler==0.12.1
-databricks-sdk==0.141.0
+databricks-sdk==0.142.0
 debugpy==1.8.22
 defusedxml==0.7.1
 dill==0.4.1
@@ -35,20 +35,20 @@ distlib==0.4.3
 executing==2.2.1
 fastapi==0.141.1
 fastjsonschema==2.22.2
-filelock==4.0.1
--e git+https://github.com/dumpmemory/FLAML@e42668a7f668286efab5381869b8d764b74c256d#egg=FLAML
-fonttools==4.65.0
+filelock==4.0.3
+-e git+https://github.com/dumpmemory/FLAML@d83495e74fd4cfa85a96763526d6381bc856d79b#egg=FLAML
+fonttools==4.66.0
 formulaic==1.2.2
 fqdn==1.5.1
 fsspec==2026.9.0
 gitdb==4.0.12
 GitPython==3.1.62
-google-auth==2.58.0
+google-auth==2.58.1
 h11==0.16.0
 hcrystalball==0.1.12
 httpcore==1.0.9
 httpx==0.28.1
-huggingface_hub==1.32.0
+huggingface_hub==1.33.0
 identify==2.6.19
 idna==3.20
 importlib_metadata==8.9.0
@@ -113,7 +113,7 @@ pandocfilters==1.5.1
 parso==0.8.7
 patsy==1.0.3
 pillow==12.3.0
-platformdirs==4.11.12
+platformdirs==4.11.13
 pluggy==1.6.0
 pre_commit==4.6.2
 prometheus_client==0.26.0
@@ -157,8 +157,8 @@ seqeval==1.2.2
 shellingham==1.5.4
 six==1.17.0
 smmap==5.0.3
-soupsieve==2.9.2
-SQLAlchemy==2.0.54
+soupsieve==2.10
+SQLAlchemy==2.1.0
 sqlparse==0.6.0
 stack-data==0.6.3
 starlette==1.7.0
@@ -178,9 +178,9 @@ typing_extensions==4.16.0
 tzdata==2026.4
 uri-template==1.3.0
 urllib3==2.8.0
-uvicorn==0.53.0
-virtualenv==21.11.0
-wcwidth==0.8.4
+uvicorn==0.54.0
+virtualenv==21.12.1
+wcwidth==0.9.1
 webcolors==25.10.0
 webencodings==0.6.1
 websocket-client==1.9.2
