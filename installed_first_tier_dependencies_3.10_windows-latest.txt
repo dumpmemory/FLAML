@@ -32,9 +32,9 @@ seqeval==1.2.2
 statsmodels==0.15.0
 tensorboardX==2.6.5
 thop==0.1.1-2209072238
-torch==2.14.0
-torchvision==0.29.0
-transformers==5.17.0
+torch==2.14.1
+torchvision==0.29.1
+transformers==5.18.0
 xgboost==1.7.6
 xgboost==1.7.6
-Current commit hash: e3b13c1685b0ca36174fcfcb6682613c50e31601
+Current commit hash: 129ca30a6fee6ce1e2399edcc976cb39ee264944
