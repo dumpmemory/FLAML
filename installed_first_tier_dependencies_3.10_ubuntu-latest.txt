@@ -18,7 +18,7 @@ openml==0.15.1
 optuna==3.6.1
 packaging==24.2
 pandas==2.3.3
-prophet==1.4.0
+prophet==1.5.0
 psutil==7.2.2
 pytest-rerunfailures==16.7
 pytest==9.1.1
@@ -38,4 +38,4 @@ torchvision==0.29.1
 transformers==5.18.0
 xgboost==1.7.6
 xgboost==1.7.6
-Current commit hash: ab6ac9f19aba9b939bfc8bb0666bf228d80503c5
+Current commit hash: 937064e70dddd3f756efa0bd7a733227ef3532a6
