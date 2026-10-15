@@ -40,17 +40,17 @@ dill==0.4.1
 distlib==0.4.3
 evaluate==0.4.6
 executing==2.3.0
-fastapi==0.143.0
+fastapi==0.143.1
 fastjsonschema==2.22.2
-filelock==4.1.1
--e git+https://github.com/dumpmemory/FLAML@bd0faa320a9834d7aa51381a6c573031ae828fad#egg=FLAML
-fonttools==4.66.1
+filelock==4.2.0
+-e git+https://github.com/dumpmemory/FLAML@e72248d13db32c654378728f52cb9024f34fb43e#egg=FLAML
+fonttools==4.67.0
 formulaic==1.2.2
 fqdn==1.6.0
 frozenlist==1.8.0
 fsspec==2026.7.0
 gitdb==4.0.12
-GitPython==3.2.0
+GitPython==3.2.1
 google-auth==2.62.0
 graphviz==0.21
 h11==0.16.0
@@ -147,7 +147,7 @@ pyarrow==26.0.0
 pyasn1==0.6.4
 pyasn1_modules==0.4.2
 pycparser==3.11
-pycryptodome==3.24.1
+pycryptodome==4.0.0
 pydantic==2.14.1
 pydantic_core==2.50.1
 Pygments==2.21.0
@@ -220,7 +220,7 @@ websocket-client==1.9.2
 wheel==0.48.0
 widgetsnbextension==4.0.16
 workalendar==17.0.0
-wrapt==2.5.1rc1
+wrapt==2.5.1
 xgboost==3.4.1
 xmltodict==1.0.4
 xxhash==4.0.1
