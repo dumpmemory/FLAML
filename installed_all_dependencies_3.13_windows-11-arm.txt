@@ -34,16 +34,16 @@ defusedxml==0.7.1
 dill==0.4.1
 distlib==0.4.3
 executing==2.3.0
-fastapi==0.143.0
+fastapi==0.143.1
 fastjsonschema==2.22.2
-filelock==4.0.10
--e git+https://github.com/dumpmemory/FLAML@365f21f55b75079b41278f4b17cb65ee1b363f8d#egg=FLAML
-fonttools==4.66.1
+filelock==4.1.1
+-e git+https://github.com/dumpmemory/FLAML@589c17972d6557d9c3fce2177ce48f3c5ef8720b#egg=FLAML
+fonttools==4.67.0
 formulaic==1.2.2
 fqdn==1.6.0
 fsspec==2026.9.0
 gitdb==4.0.12
-GitPython==3.2.0
+GitPython==3.2.1
 google-auth==2.62.0
 h11==0.16.0
 hcrystalball==0.1.12
@@ -116,8 +116,8 @@ pandocfilters==1.5.1
 parso==0.8.7
 patsy==1.0.3
 pillow==12.3.0
-pipx==1.17.11
-platformdirs==4.12.3
+pipx==1.17.14
+platformdirs==4.13.0
 pluggy==1.6.0
 pre_commit==4.7.0
 prometheus_client==0.26.0
@@ -194,6 +194,6 @@ websocket-client==1.9.2
 wheel==0.48.0
 widgetsnbextension==4.0.16
 workalendar==17.0.0
-wrapt==2.5.1rc1
+wrapt==2.5.1
 xgboost==3.4.1
 zipp==4.1.1
