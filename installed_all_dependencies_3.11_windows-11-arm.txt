@@ -33,16 +33,16 @@ defusedxml==0.7.1
 dill==0.4.1
 distlib==0.4.3
 executing==2.3.0
-fastapi==0.143.0
+fastapi==0.143.1
 fastjsonschema==2.22.2
-filelock==4.1.1
--e git+https://github.com/dumpmemory/FLAML@a78aa5157808afeb6ccd53bc77c1d9f762adb42e#egg=FLAML
-fonttools==4.66.1
+filelock==4.2.0
+-e git+https://github.com/dumpmemory/FLAML@10bad40c41be4dabdafb467a6f0650db7241b238#egg=FLAML
+fonttools==4.67.0
 formulaic==1.2.2
 fqdn==1.6.0
 fsspec==2026.9.0
 gitdb==4.0.12
-GitPython==3.2.0
+GitPython==3.2.1
 google-auth==2.62.0
 h11==0.16.0
 hcrystalball==0.1.12
@@ -190,6 +190,6 @@ webencodings==0.6.1
 websocket-client==1.9.2
 widgetsnbextension==4.0.16
 workalendar==17.0.0
-wrapt==2.5.0
+wrapt==2.5.1
 xgboost==3.2.0
 zipp==4.1.1
