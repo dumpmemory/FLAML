@@ -1,4 +1,4 @@
-coverage==7.16.2
+coverage==7.17.0
 dill==0.4.1
 hcrystalball==0.1.12
 ipykernel==7.4.0
@@ -9,11 +9,11 @@ lightgbm==4.7.0
 mlflow-skinny==2.22.1
 nbconvert==7.17.2
 nbformat==5.11.1
-nltk==3.10.3
+nltk==3.10.4
 numpy==2.5.4
 optuna==3.6.1
 packaging==24.2
-pandas==3.0.6
+pandas==3.1.0
 psutil==7.2.2
 pytest-rerunfailures==16.7
 pytest==9.1.1
@@ -26,4 +26,4 @@ statsmodels==0.15.0
 tensorboardX==2.6.5
 transformers==5.20.2
 xgboost==3.4.1
-Current commit hash: ecd3daee4e775fc21d8b5716abf06ee3f0280c9b
+Current commit hash: f7888ed19b926cddce24876c4d67b95ad30d32b4
