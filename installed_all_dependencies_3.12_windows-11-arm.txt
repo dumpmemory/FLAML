@@ -35,8 +35,8 @@ distlib==0.4.4
 executing==2.3.0
 fastapi==0.162.0
 fastjsonschema==2.22.2
-filelock==4.2.5
--e git+https://github.com/dumpmemory/FLAML@0a8999fdd2afccd9be35955223dc60ba351fd24b#egg=FLAML
+filelock==4.2.6
+-e git+https://github.com/dumpmemory/FLAML@feacaba49c02f18870a932601e77113b961fc383#egg=FLAML
 fonttools==4.68.0
 formulaic==1.2.2
 fqdn==1.6.0
@@ -101,7 +101,7 @@ nbconvert==7.17.2
 nbformat==5.11.1
 nest-asyncio2==1.7.4
 nltk==3.10.4
-nodeenv==1.11.1
+nodeenv==1.12.0
 notebook==7.6.4
 notebook_shim==0.2.4
 numpy==2.5.4
@@ -115,7 +115,7 @@ pandocfilters==1.5.1
 parso==0.8.7
 patsy==1.0.3
 pillow==13.0.0
-platformdirs==4.14.0
+platformdirs==4.14.2
 pluggy==1.7.0
 pre_commit==4.7.0
 prometheus_client==0.26.0
@@ -135,7 +135,7 @@ pyparsing==3.3.3
 pytest==9.2.0
 pytest-asyncio==1.4.1
 pytest-rerunfailures==16.7
-python-dateutil==3.0.0
+python-dateutil==4.0.0
 python-discovery==1.9.0
 python-json-logger==4.2.0
 pywinpty==3.1.2
