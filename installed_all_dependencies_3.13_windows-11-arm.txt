@@ -18,7 +18,7 @@ certifi==2026.10.23
 cffi==2.1.1
 cfgv==3.5.0
 charset-normalizer==3.5.2
-click==8.5.0
+click==8.5.1
 cloudpickle==3.1.2
 colorama==0.4.6
 colorlog==6.12.0
@@ -34,10 +34,10 @@ defusedxml==0.7.1
 dill==0.4.1
 distlib==0.4.4
 executing==2.3.0
-fastapi==0.162.5
+fastapi==0.163.0
 fastjsonschema==2.22.3
-filelock==4.2.6
--e git+https://github.com/dumpmemory/FLAML@bc3e61815ec46787b18d84196a3913adf41e240e#egg=FLAML
+filelock==4.2.10
+-e git+https://github.com/dumpmemory/FLAML@8aa85c69014e8c04ffa449abbdcdfc8148c953c0#egg=FLAML
 fonttools==4.68.0
 formulaic==1.2.2
 fqdn==1.6.0
@@ -116,8 +116,8 @@ pandocfilters==1.5.1
 parso==0.8.7
 patsy==1.0.3
 pillow==13.0.0
-pipx==1.18.11
-platformdirs==4.14.3
+pipx==1.18.16
+platformdirs==4.14.5
 pluggy==1.7.0
 pre_commit==4.7.0
 prometheus_client==0.26.0
@@ -162,7 +162,7 @@ setuptools==81.0.0
 shellingham==1.5.4
 six==1.17.0
 smmap==5.0.3
-soupsieve==4.1
+soupsieve==4.1.1
 SQLAlchemy==2.1.8
 sqlparse==0.6.1
 stack-data==0.6.3
@@ -176,7 +176,7 @@ tokenizers==0.23.3
 tornado==6.6.1
 tqdm==4.70.1
 traitlets==5.16.1
-transformers==5.22.2
+transformers==5.23.0
 truststore==0.10.5
 typer==0.29.1
 typing-inspection==0.4.5
