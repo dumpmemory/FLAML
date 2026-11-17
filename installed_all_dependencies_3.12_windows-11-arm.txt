@@ -27,16 +27,16 @@ convertdate==2.5.1
 coverage==7.17.3
 cryptography==46.0.3
 cycler==0.12.1
-databricks-sdk==0.166.0
+databricks-sdk==0.167.0
 debugpy==1.8.22
 defusedxml==0.7.1
 dill==0.4.1
 distlib==0.4.4
 executing==2.3.0
-fastapi==0.162.5
+fastapi==0.163.1
 fastjsonschema==2.22.3
-filelock==4.2.10
--e git+https://github.com/dumpmemory/FLAML@5c531bc68042812c84cac2b1e1ab1a6e0ab34afa#egg=FLAML
+filelock==4.2.11
+-e git+https://github.com/dumpmemory/FLAML@fc87f80c9e27caf0492e9ec938392c31d264f428#egg=FLAML
 fonttools==4.68.0
 formulaic==1.2.2
 fqdn==1.6.0
@@ -48,9 +48,9 @@ h11==0.16.0
 hcrystalball==0.1.12
 hf-xet==1.8.0
 httpcore==1.0.9
-httpcore2==2.16.0
+httpcore2==2.16.2
 httpx==0.28.1
-httpx2==2.16.0
+httpx2==2.16.2
 huggingface_hub==2.4.0
 identify==2.6.20
 idna==3.20
@@ -104,7 +104,7 @@ nltk==3.10.4
 nodeenv==1.12.0
 notebook==7.6.5
 notebook_shim==0.2.4
-numpy==2.5.4
+numpy==2.5.5
 opentelemetry-api==1.45.2
 opentelemetry-sdk==1.45.2
 opentelemetry-semantic-conventions==0.66b2
@@ -142,7 +142,7 @@ pywinpty==3.1.2
 PyYAML==6.0.3
 pyzmq==27.3.0
 referencing==0.37.0
-regex==2026.11.9
+regex==2026.11.15
 requests==2.34.2
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
@@ -160,8 +160,8 @@ setuptools==81.0.0
 shellingham==1.5.4
 six==1.17.0
 smmap==5.0.3
-soupsieve==4.1
-SQLAlchemy==2.1.8
+soupsieve==4.1.1
+SQLAlchemy==2.1.9
 sqlparse==0.6.1
 stack-data==0.6.3
 starlette==1.10.0
@@ -174,7 +174,7 @@ tokenizers==0.23.3
 tornado==6.6.1
 tqdm==4.70.1
 traitlets==5.16.1
-transformers==5.22.2
+transformers==5.23.0
 truststore==0.10.5
 typer==0.29.1
 typing-inspection==0.4.5
