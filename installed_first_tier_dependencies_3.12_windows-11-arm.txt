@@ -1,4 +1,4 @@
-coverage==7.17.3
+coverage==7.17.4
 dill==0.4.1
 hcrystalball==0.1.12
 ipykernel==7.4.0
@@ -26,4 +26,4 @@ statsmodels==0.15.0
 tensorboardX==2.6.5
 transformers==5.23.0
 xgboost==3.4.1
-Current commit hash: c397460fbf541901b4131408879f9aeb00e0a674
+Current commit hash: 6fd1a3fbac969e9a41661ebbb3009ca1fd41be2a
