@@ -16,7 +16,7 @@ cachetools==5.5.2
 certifi==2026.11.20
 cffi==2.1.1
 cfgv==3.5.0
-charset-normalizer==3.5.2
+charset-normalizer==3.5.3
 click==8.5.1
 cloudpickle==3.1.3
 colorama==0.4.6
@@ -27,7 +27,7 @@ convertdate==2.5.1
 coverage==7.17.4
 cryptography==46.0.3
 cycler==0.12.1
-databricks-sdk==0.169.0
+databricks-sdk==0.170.0
 debugpy==1.8.22
 defusedxml==0.7.1
 dill==0.4.1
@@ -35,15 +35,15 @@ distlib==0.4.4
 executing==2.3.0
 fastapi==0.165.0
 fastjsonschema==2.22.3
-filelock==4.2.12
--e git+https://github.com/dumpmemory/FLAML@6fd1a3fbac969e9a41661ebbb3009ca1fd41be2a#egg=FLAML
+filelock==4.3.0
+-e git+https://github.com/dumpmemory/FLAML@43d83984b25ab9ae834a4165b8e4e10c8f21fb32#egg=FLAML
 fonttools==4.68.0
 formulaic==1.2.2
 fqdn==1.6.0
 fsspec==2026.9.0
 gitdb==4.0.12
 GitPython==3.2.1
-google-auth==2.63.0
+google-auth==2.63.1
 h11==0.16.0
 hcrystalball==0.1.12
 hf-xet==1.8.0
@@ -58,7 +58,7 @@ importlib_metadata==8.9.0
 iniconfig==2.3.1
 interface_meta==2.0.1
 ipykernel==7.4.0
-ipython==9.18.1
+ipython==9.19.1
 ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.9
 isoduration==20.11.0
@@ -86,7 +86,7 @@ jupyterlab_widgets==3.0.17
 kiwisolver==1.5.1
 lark==1.3.1
 lightgbm==4.7.0
-lunardate==0.3.0
+lunardate==0.3.1
 Mako==1.4.3
 markdown-it-py==4.3.0
 MarkupSafe==3.0.4
@@ -174,7 +174,7 @@ tokenizers==0.23.3
 tornado==6.6.1
 tqdm==4.70.1
 traitlets==5.16.1
-transformers==5.23.0
+transformers==5.24.0
 truststore==0.10.5
 typer==0.29.2
 typing-inspection==0.4.5
@@ -184,7 +184,7 @@ uri-template==1.3.0
 urllib3==2.8.0
 uvicorn==0.54.0
 virtualenv==21.14.5
-wcwidth==0.9.4
+wcwidth==0.9.5
 webcolors==25.10.0
 webencodings==0.6.1
 websocket-client==1.9.2
