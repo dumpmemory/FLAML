@@ -14,7 +14,7 @@ asttokens==3.0.2
 async-lru==2.4.0
 async-timeout==5.0.1
 attrs==26.1.0
-babel==2.18.0
+babel==2.19.0
 beautifulsoup4==4.15.0
 bleach==6.4.0
 cachetools==5.5.2
@@ -33,7 +33,7 @@ convertdate==2.5.1
 coverage==7.16.2
 cryptography==50.0.2
 cycler==0.12.1
-databricks-sdk==0.170.0
+databricks-sdk==0.171.0
 datasets==5.2.0
 debugpy==1.8.22
 decorator==5.3.2
@@ -46,7 +46,7 @@ executing==2.3.0
 fastapi==0.162.5
 fastjsonschema==2.22.3
 filelock==4.1.0
--e git+https://github.com/dumpmemory/FLAML@46da361e209d6f726fd8aaed3776262e839cf424#egg=FLAML
+-e git+https://github.com/dumpmemory/FLAML@50384cc62c2db708e473d3bba0b488948a2dcfc7#egg=FLAML
 fonttools==4.65.0
 formulaic==1.2.2
 fqdn==1.6.0
@@ -138,7 +138,7 @@ parso==0.8.7
 patsy==1.0.3
 pillow==12.3.0
 platformdirs==4.12.4
-plotly==7.1.0
+plotly==7.2.0
 pluggy==1.7.0
 pre_commit==4.6.2
 prometheus_client==0.26.0
@@ -161,7 +161,7 @@ pyparsing==3.3.3
 pytest==9.2.0
 pytest-rerunfailures==16.7
 python-dateutil==3.0.0
-python-discovery==1.9.6
+python-discovery==1.9.7
 python-json-logger==4.2.0
 pytorch-forecasting==1.8.0
 pytorch-lightning==2.6.6
